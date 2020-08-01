@@ -1,0 +1,9 @@
+./blog-api/node_modules
+./crud-mongo-rest-api/node_modules
+./csv-convertor/node_modules
+./download-page/node_modules
+./express-hello-world/node_modules
+./mongo-migrate-script/node_modules
+./mongodb-script-project/node_modules
+./mongoose-test/node_modules
+./rest-api/node_modules
